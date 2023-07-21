@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-raza-khanzada&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-raza-khanzada" /> </p>
 
-- 🌱 I’m currently learning ** Generative AI,Pytorch**
+- 🌱 I’m currently learning **Generative AI,Pytorch**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 

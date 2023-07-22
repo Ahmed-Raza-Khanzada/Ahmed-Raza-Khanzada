@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Khanzada</h1>
 <h3 align="center">Machine Learning Engineer| Data Scientist |Certified Python Developer(MTA)| Certified TensorFlow Developer |Kaggle Expert</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1500w">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-raza-khanzada&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-raza-khanzada" /> </p>
 

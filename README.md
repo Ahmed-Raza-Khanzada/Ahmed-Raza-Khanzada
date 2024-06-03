@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Khanzada</h1>
-<h3 align="center">Machine Learning Engineer| Data Scientist |Certified Python Developer(MTA)| Certified TensorFlow Developer |Kaggle Expert</h3>
+<h3 align="center">Machine Learning Engineer|Certified Python Developer(MTA)| Certified TensorFlow Developer |Kaggle Expert</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 

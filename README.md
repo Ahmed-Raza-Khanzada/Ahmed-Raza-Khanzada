@@ -20,14 +20,18 @@
 
 Senior AI Engineer with **4+ years of experience** across computer vision, NLP, speech processing, voice AI, and LLM systems. Skilled in designing custom neural network architectures, training models from scratch, fine-tuning, multimodal RAG, and AI agent development. Deep experience in Custom MCP Servers, conversational AI platforms, streaming ASR, text-to-speech, voice cloning, and real-time multi-stream voice processing   including batch voice inference at scale. Hands-on with real-time multi-stream RTSP video processing for CCTV analytics, semantic search, and low-resource language modeling. Strong in Linux, GPU configuration, DevOps practices, containerized deployments, and scalable system architecture. Open to opportunities in **ML engineering, LLM systems, and AI platform development**.
 
+<div align="center">
+
 | | |
 |---|---|
 | 🎓 **Certifications** | Google TensorFlow Developer &nbsp;·&nbsp; Microsoft Azure AI-900 &nbsp;·&nbsp; Microsoft Python MTA |
-| 🏛️ **Education** | B.AI   3.74 / 4.0 CGPA |
+| 🏛️ **Education** | B.AI (Artificial Intelligence) |
 | 🧠 **Specializations** | LLM Systems · Voice AI · Computer Vision · Multimodal RAG · AI Agents · MCP Servers |
 | 🛠️ **Infrastructure** | Linux · GPU Config · Docker · Nginx · DevOps · Scalable ML Deployment |
-| 📍 **Location** | Pakistan   Open to Remote |
+| 🌍 **Availability** | Open to work globally : Remote &nbsp;·&nbsp; Relocation &nbsp;·&nbsp; Contract |
 | 📫 **Contact** | khanzadaahmedraza@gmail.com |
+
+</div>
 
 ---
 

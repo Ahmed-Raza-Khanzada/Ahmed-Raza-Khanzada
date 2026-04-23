@@ -18,15 +18,15 @@
 
 ### About
 
-Senior AI Engineer with **4+ years of experience** across computer vision, NLP, speech processing, voice AI, and LLM systems. Skilled in designing custom neural network architectures, training models from scratch, fine-tuning, multimodal RAG, and AI agent development. Deep experience in Custom MCP Servers, conversational AI platforms, streaming ASR, text-to-speech, voice cloning, and real-time multi-stream voice processing — including batch voice inference at scale. Hands-on with real-time multi-stream RTSP video processing for CCTV analytics, semantic search, and low-resource language modeling. Strong in Linux, GPU configuration, DevOps practices, containerized deployments, and scalable system architecture. Open to opportunities in **ML engineering, LLM systems, and AI platform development**.
+Senior AI Engineer with **4+ years of experience** across computer vision, NLP, speech processing, voice AI, and LLM systems. Skilled in designing custom neural network architectures, training models from scratch, fine-tuning, multimodal RAG, and AI agent development. Deep experience in Custom MCP Servers, conversational AI platforms, streaming ASR, text-to-speech, voice cloning, and real-time multi-stream voice processing   including batch voice inference at scale. Hands-on with real-time multi-stream RTSP video processing for CCTV analytics, semantic search, and low-resource language modeling. Strong in Linux, GPU configuration, DevOps practices, containerized deployments, and scalable system architecture. Open to opportunities in **ML engineering, LLM systems, and AI platform development**.
 
 | | |
 |---|---|
 | 🎓 **Certifications** | Google TensorFlow Developer &nbsp;·&nbsp; Microsoft Azure AI-900 &nbsp;·&nbsp; Microsoft Python MTA |
-| 🏛️ **Education** | B.AI — 3.74 / 4.0 CGPA |
+| 🏛️ **Education** | B.AI   3.74 / 4.0 CGPA |
 | 🧠 **Specializations** | LLM Systems · Voice AI · Computer Vision · Multimodal RAG · AI Agents · MCP Servers |
 | 🛠️ **Infrastructure** | Linux · GPU Config · Docker · Nginx · DevOps · Scalable ML Deployment |
-| 📍 **Location** | Pakistan — Open to Remote |
+| 📍 **Location** | Pakistan   Open to Remote |
 | 📫 **Contact** | khanzadaahmedraza@gmail.com |
 
 ---
@@ -91,18 +91,12 @@ Senior AI Engineer with **4+ years of experience** across computer vision, NLP, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza-Khanzada&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Raza-Khanzada&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2736&ring=58a6ff&fire=ff6b55&currStreakLabel=8b949e)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza-Khanzada&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>— Senior AI Engineer · LLM Systems · Voice AI · Computer Vision —</sub>
+<sub>Senior AI Engineer · LLM Systems · Voice AI · Computer Vision</sub>
 </div>

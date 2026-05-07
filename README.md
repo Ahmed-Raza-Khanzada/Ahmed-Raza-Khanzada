@@ -91,16 +91,3 @@ Senior AI Engineer with **4+ years of experience** across computer vision, NLP, 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza-Khanzada&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-
-</div>
-
----
-
-<div align="center">
-<sub>Senior AI Engineer · LLM Systems · Voice AI · Computer Vision</sub>
-</div>
